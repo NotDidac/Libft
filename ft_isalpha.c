@@ -5,7 +5,6 @@ int	ft_isalpha(int c)
 	else
 		return (0);
 }
-
 /*
 #include <ctype.h>
 #include <stdio.h>
